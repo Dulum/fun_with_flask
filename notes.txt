@@ -1,0 +1,13 @@
+TERMINAL COMMANDS:
+
+deciding which app to run:
+$ export FLASK_APP=name_of_app.py
+
+to choose port:
+$ export FLASK_APP_PORT=port (defult is 5000)
+
+debug mode:
+$ export FLASK_ENV=development
+
+starting the app:
+$ flask run
